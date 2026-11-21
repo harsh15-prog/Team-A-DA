@@ -62,3 +62,19 @@ To explore the notebooks, open the files in `Analyzed File/` using Jupyter Noteb
 ## Notes on the numbers
 
 Different project outputs use different subsets: the main notebook and dashboard inspect 50,000 reviewed rows; the PDF report analyzes 49,997 rows after removing three zero-distance records; a stricter operational filter in the notebook retains 35,299 completed trips. Metrics should always be interpreted using the subset named in the relevant analysis.
+
+## Team & Contributors
+
+This project was developed collaboratively during the Data Analytics Hackathon organized by WsCube Tech.
+
+Special thanks to my teammates for their contributions, teamwork, and efforts throughout the project.
+
+- Harsh Chaudhary
+- Mahipal Choudhary
+- Aniket Kumar
+- Jitesh Kumar
+- Aditya
+- Parth Soni
+- Bhavishikha
+
+From data cleaning and analysis to dashboard development and presenting our findings, this project was a collective effort.
